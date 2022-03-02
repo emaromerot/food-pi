@@ -1,0 +1,21 @@
+
+.paginado li {
+    display: inline;
+}
+.paginado{
+    display: inline-block;
+    padding: 0;
+    cursor: pointer;
+    top: 200px;
+}
+
+.paginado li a{
+    color:rgb(55, 139, 34);
+    float: left;
+    padding: 8px 13px;
+    box-shadow: 0 5px 8px palevioletred ;
+    border-radius: 3px;
+    border: 1px rosybrown;
+    transition:background-color .3s;
+}
+

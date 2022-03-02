@@ -1,0 +1,20 @@
+.cardContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #23913570;
+    color: rgb(236, 230, 230);
+    /* width:50%; */
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 280px;
+    height: 650px;
+    margin-bottom: 30px;
+    border-radius:12px;
+    opacity: 0.5em;
+    flex-wrap: wrap;
+    
+}
+

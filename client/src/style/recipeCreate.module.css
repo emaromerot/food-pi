@@ -1,0 +1,14 @@
+.container{
+    background-image: url("https://media.istockphoto.com/photos/naan-flatbread-picture-id1323591492?k=20&m=1323591492&s=612x612&w=0&h=nucZ1UzirVz5OpwHv1wIbtcYN4J_reJ4L3pIZ2N1PK8=");
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.error{
+    color:red
+}

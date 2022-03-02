@@ -1,0 +1,14 @@
+.container{
+    background-image: url('https://st.depositphotos.com/1155723/1217/i/600/depositphotos_12178221-stock-photo-notebook-for-recipes-and-spices.jpg');
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+
